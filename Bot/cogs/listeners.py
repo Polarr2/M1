@@ -14,7 +14,6 @@ from os import scandir
 import asyncio
 import os
 dotenv.load_dotenv()
-os.chdir("C:\\Users\\Dylan\\Documents\\Projects py\\M¹\\Bot")
 
 class listen(commands.Cog):
 
