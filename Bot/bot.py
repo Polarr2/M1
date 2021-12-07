@@ -15,7 +15,6 @@ from discord.ui import Button, View
 from discord.ext.commands import context
 from discord.ext.commands.core import command, cooldown
 
-os.chdir("C:\\Users\\Dylan\\Documents\\Projects py\\M¹\\Bot")
 dotenv.load_dotenv()
 
 
