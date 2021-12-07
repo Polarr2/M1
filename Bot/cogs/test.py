@@ -16,7 +16,6 @@ from discord.ui.button import button
 from os import scandir
 import os
 dotenv.load_dotenv()
-os.chdir("C:\\Users\\Dylan\\Documents\\Projects py\\M¹\\Bot")
 
 class TestView(View):
     def __init__(self, ctx):
